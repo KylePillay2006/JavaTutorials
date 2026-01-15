@@ -27,9 +27,13 @@ This repository documents my learning journey through structured, hands-on proje
 - Variables and data types  
 - User input using `Scanner`  
 - Arithmetic operations  
-- Conditional statements (`if / else`)  
+- Conditional statements (`if / else`, nested if)  
+- Loops (`while`)  
+- Logical and ternary operators  
 - Random number generation  
 - Java `Math` class  
+- Enhanced `switch` expressions  
+- String methods and substrings  
 - Console output using `print()` and `println()`  
 
 ### Programming Principles
@@ -42,7 +46,7 @@ This repository documents my learning journey through structured, hands-on proje
 
 ## 📂 Projects
 
-### Beginner Java Projects (First 10)
+### Beginner Java Projects (1–20)
 
 1. [Variables](1.%20Variables)  
 2. [User Input](2.%20User%20Input)  
@@ -54,8 +58,18 @@ This repository documents my learning journey through structured, hands-on proje
 8. [Java Math Classes](8.%20Java%20Math%20Classes)  
 9. [Java print()](9.%20Java%20Print)  
 10. [Compound Interest Calculator](10.%20Compound%20Interest%20Calculator)  
+11. [Nested If Statements](11.%20Nested%20If%20Statements)  
+12. [String Methods](12.%20String%20Methods)  
+13. [Substrings](13.%20Substrings)  
+14. [Weight Converter Program](14.%20Weight%20Converter%20Program)  
+15. [Ternary Operator](15.%20Ternary%20Operator)  
+16. [Temperature Converter](16.%20Temperature%20Converter)  
+17. [Enhanced Switches](17.%20Enhanced%20Switches)  
+18. [Simple Calculator](18.%20Simple%20Calculator)  
+19. [Logical Operator](19.%20Logical%20Operator)  
+20. [While Loops](20.%20While%20Loops)  
 
-> These are my **first 10 Java projects**. More projects will be added as I continue learning and advancing my Java skills.
+> These projects represent my **current Java foundation**. Additional intermediate and advanced Java projects will be added as I continue learning.
 
 ---
 
@@ -75,7 +89,7 @@ Planned topics and projects include:
 This repository demonstrates:
 - Consistent practice of Java fundamentals  
 - Strong logical and analytical thinking  
-- A structured approach to learning software development  
+- A structured and disciplined learning approach  
 - Readiness to progress into advanced Java and backend development  
 
 Each project contributes to building confidence and real-world coding experience.

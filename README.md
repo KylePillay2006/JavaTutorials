@@ -24,22 +24,22 @@ This repository documents my learning journey through structured, hands-on proje
 <table>
 <tr>
 <td align="center">
-  <img src="Sample Screenshots/project1.png" width="200" alt="Variables Project"/>
-  <br>Variables Project
+  <img src="Sample Screenshots/MadLibsGame.png" width="200" alt="Variables Project"/>
+  <br>Mad Libs Game
 </td>
 <td align="center">
-  <img src="Sample Screenshots/project3.png" width="200" alt="Mad Libs Game"/>
-  <br>Mad Libs Game
+  <img src="Sample Screenshots/MadLibsGame Output.png" width="200" alt="Mad Libs Game"/>
+  <br>Mad Libs Game Output
 </td>
 </tr>
 <tr>
 <td align="center">
-  <img src="Sample Screenshots/project5.png" width="200" alt="Shopping Cart Program"/>
+  <img src="Sample Screenshots/ShoppingCartProgram.png" width="200" alt="Shopping Cart Program"/>
   <br>Shopping Cart Program
 </td>
 <td align="center">
-  <img src="Sample Screenshots/project10.png" width="200" alt="Compound Interest Calculator"/>
-  <br>Compound Interest Calculator
+  <img src="Sample Screenshots/ShoppingCartProgram Output.png" width="200" alt="Compound Interest Calculator"/>
+  <br>Shopping Cart Program Output
 </td>
 </tr>
 </table>

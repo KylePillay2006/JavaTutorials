@@ -5,10 +5,45 @@ Core Java • Beginner to Intermediate • Hands-on Practice
 
 ---
 
+## 🎬 Java GIF
+<p align="center">
+  <img src="images/java-demo.gif" alt="Java GIF" width="400"/>
+</p>
+
+---
+
 ## 📌 Overview
 Welcome to my **Java Projects Portfolio** — a growing collection of Java programs designed to build a strong foundation in **core Java programming** and **problem-solving**.
 
 This repository documents my learning journey through structured, hands-on projects that focus on logic, clean code, and real-world applications. Each project reinforces key Java concepts and prepares me for more advanced backend and software development work.
+
+---
+
+## 🖼️ Sample Project Screenshots
+<p align="center">
+<table>
+<tr>
+<td align="center">
+  <img src="images/project1.png" width="200" alt="Variables Project"/>
+  <br>Variables Project
+</td>
+<td align="center">
+  <img src="images/project3.png" width="200" alt="Mad Libs Game"/>
+  <br>Mad Libs Game
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="images/project5.png" width="200" alt="Shopping Cart Program"/>
+  <br>Shopping Cart Program
+</td>
+<td align="center">
+  <img src="images/project10.png" width="200" alt="Compound Interest Calculator"/>
+  <br>Compound Interest Calculator
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
@@ -100,6 +135,6 @@ Each project contributes to building confidence and real-world coding experience
 **Kyle Pillay**  
 Final-year Application Development Student | Emeris  
 📧 Email: kylepillay017@example.com  
-🐙 GitHub: https://github.com/KylePillay2006  
+🐙 GitHub: [https://github.com/KylePillay2006](https://github.com/KylePillay2006)  
 
 © 2025 Kyle Pillay

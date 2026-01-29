@@ -7,7 +7,7 @@ Core Java • Beginner to Intermediate • Hands-on Practice
 
 ## 🎬 Java GIF
 <p align="center">
-  <img src="images/java-demo.gif" alt="Java GIF" width="400"/>
+  <img src="Sample Screenshots/java-demo.gif" alt="Java GIF" width="400"/>
 </p>
 
 ---
@@ -24,21 +24,21 @@ This repository documents my learning journey through structured, hands-on proje
 <table>
 <tr>
 <td align="center">
-  <img src="images/project1.png" width="200" alt="Variables Project"/>
+  <img src="Sample Screenshots/project1.png" width="200" alt="Variables Project"/>
   <br>Variables Project
 </td>
 <td align="center">
-  <img src="images/project3.png" width="200" alt="Mad Libs Game"/>
+  <img src="Sample Screenshots/project3.png" width="200" alt="Mad Libs Game"/>
   <br>Mad Libs Game
 </td>
 </tr>
 <tr>
 <td align="center">
-  <img src="images/project5.png" width="200" alt="Shopping Cart Program"/>
+  <img src="Sample Screenshots/project5.png" width="200" alt="Shopping Cart Program"/>
   <br>Shopping Cart Program
 </td>
 <td align="center">
-  <img src="images/project10.png" width="200" alt="Compound Interest Calculator"/>
+  <img src="Sample Screenshots/project10.png" width="200" alt="Compound Interest Calculator"/>
   <br>Compound Interest Calculator
 </td>
 </tr>
